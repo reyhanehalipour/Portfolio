@@ -23,12 +23,12 @@ const ShowcaseSection: React.FC<ShowcaseSectionProps> = ({
   cardsData = [],
 }) => {
   return (
-    <section className="py-10 w-full px-10 mx-auto text-left flex flex-col gap-8">
+    <section className="py-10  mx-10  text-left flex flex-col gap-8">
       {/* عنوان بخش */}
-      <h2 className="text-green font-bold text-3xl leading-snug">{title}</h2>
+      <h2 className="text-green w-[90%] font-bold mx-10 text-3xl leading-snug">{title}</h2>
 
       {/* توضیح کوتاه زیر عنوان */}
-      <p className="font-thin text-2xl">{subtitle}</p>
+      <p className="font-thin  w-[90%] text-2xl">{subtitle}</p>
 
       {/* محتوای بخش */}
       <div className="grid sm:grid-cols-2 justify-items-center mx-auto gap-4">

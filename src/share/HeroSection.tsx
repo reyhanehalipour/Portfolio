@@ -14,7 +14,7 @@ const HeroSection: React.FC<BlurredHeaderProps> = ({
   backgroundImage,
 }) => {
   return (
-    <section className="relative w-full h-[30vh] md:h-[80vh] overflow-hidden">
+    <section className="relative w-full h-[90vh] md:h-[80vh] overflow-hidden">
       {/* تصویر پس‌زمینه */}
       <div className="absolute inset-0 transition-opacity duration-1000 ease-in-out opacity-100 z-20">
         <Image
