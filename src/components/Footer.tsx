@@ -28,7 +28,7 @@ export default function Footer() {
           </div>
         </div>
         <div className="flex  flex-row md:flex-col gap-4">
-          <h1 className=" font-bold text-2xl">Board & Vellum </h1>
+          <h1 className=" font-bold   text-left  mb-2 text-2xl">Board & Vellum </h1>
           {!isMobile && (
             <>
             <p className=" hidden md:flex font-thin text-left">
