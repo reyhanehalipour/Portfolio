@@ -12,7 +12,7 @@ const certData: Certificdata[] = [
     id: "leed",
 
     description: "Our team includes LEED-accredited professionals.",
-    imageSrc: "/images/Certific2.jpg",
+    imageSrc: "/images/home/Certific2.webp",
     alt: "LEED logo",
   },
   {
@@ -20,29 +20,28 @@ const certData: Certificdata[] = [
 
     description:
       "Achieved a Just label from the International Living Future Institute in 2023.",
-    imageSrc: "/images/Certific3.jpg",
+    imageSrc: "/images/home/Certific3.webp",
     alt: "Passive House logo",
   },
   {
     id: "nglcc",
 
     description: "Our team includes certified Passive House consultants.",
-    imageSrc: "/images/Certific5.jpg",
+    imageSrc: "/images/home/Certific5.webp",
     alt: "NGLCC logo",
   },
   {
     id: "just-label-2023",
 
     description: "Our team includes LEED-accredited professionals.",
-    imageSrc: "/images/Certific4.jpg",
+    imageSrc: "/images/home/Certific4.webp",
     alt: "JUST label",
   },
   {
     id: "gray-award",
 
-    description:
-      "Honored as a finalist for residential landscape design",
-    imageSrc: "/images/Certific.jpg",
+    description: "Honored as a finalist for residential landscape design",
+    imageSrc: "/images/home/Certific.webp",
     alt: "Gray Awards",
   },
 ];

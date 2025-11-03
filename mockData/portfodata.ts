@@ -21,10 +21,10 @@ const portfolioData: PortfolioItem[] = [
       "A modern update brings this traditional, historic house into the 21st century with a balanced and approachable eclectic style.",
 
     imageSrc: [
-      "/images/portfolio/imgpofrocard.jpg",
-      "/images/portfolio/imgpofrocard.jpg",
-      "/images/portfolio/imgpofrocard.jpg",
-      "/images/portfolio/imgpofrocard.jpg",
+      "/images/portfolio/imgpofrocard.webp",
+      "/images/portfolio/imgpofrocard.webp",
+      "/images/portfolio/imgpofrocard.webp",
+      "/images/portfolio/imgpofrocard.webp",
     ],
     alt: "Rhapsody in Walnut – Custom Home Remodel",
   },
@@ -38,10 +38,10 @@ const portfolioData: PortfolioItem[] = [
       "A commercial-to-residential conversion transforming an unassuming building into a sustainable and vibrant multifamily community.",
 
     imageSrc: [
-      "/images/portfolio/imgpofrocard1.jpg",
-      "/images/portfolio/imgpofrocard1.1.jpg",
-      "/images/portfolio/imgpofrocard1.2.jpg",
-      "/images/portfolio/imgpofrocard1.3.jpg",
+      "/images/portfolio/imgpofrocard1.webp",
+      "/images/portfolio/imgpofrocard1.1.webp",
+      "/images/portfolio/imgpofrocard1.2.webp",
+      "/images/portfolio/imgpofrocard1.3.webp",
     ],
     alt: "Queen Anne Commercial Conversion",
   },
@@ -55,10 +55,10 @@ const portfolioData: PortfolioItem[] = [
       "A Japanese-inspired garden and an environmentally responsive shoreline ecosystem on a waterfront property.",
 
     imageSrc: [
-      "/images/portfolio/imgpofrocard2.jpg",
-      "/images/portfolio/imgpofrocard2.1.jpg",
-      "/images/portfolio/imgpofrocard2.2.jpg",
-      "/images/portfolio/imgpofrocard2.3.jpg",
+      "/images/portfolio/imgpofrocard2.webp",
+      "/images/portfolio/imgpofrocard2.1.webp",
+      "/images/portfolio/imgpofrocard2.2.webp",
+      "/images/portfolio/imgpofrocard2.3.webp",
     ],
     alt: "Landscape at Makai House",
   },
@@ -72,10 +72,10 @@ const portfolioData: PortfolioItem[] = [
       "Converting to mixed‑use to maximize an urban lot — traditional home meets street‑level café and brownstone.",
 
     imageSrc: [
-      "/images/portfolio/imgpofrocard3.jpg",
-      "/images/portfolio/imgpofrocard3.jpg",
-      "/images/portfolio/imgpofrocard3.jpg",
-      "/images/portfolio/imgpofrocard3.jpg",
+      "/images/portfolio/imgpofrocard3.webp",
+      "/images/portfolio/imgpofrocard3.webp",
+      "/images/portfolio/imgpofrocard3.webp",
+      "/images/portfolio/imgpofrocard3.webp",
     ],
     alt: "Shophouse Meets Brownstone",
   },
@@ -89,10 +89,10 @@ const portfolioData: PortfolioItem[] = [
       "A classic Craftsman home with great bones, remodeled and restored to take it into its next 100 years, adapted for modern living.",
 
     imageSrc: [
-      "/images/portfolio/imgpofrocard4.jpg",
-      "/images/portfolio/imgpofrocard4.jpg",
-      "/images/portfolio/imgpofrocard4.jpg",
-      "/images/portfolio/imgpofrocard4.jpg",
+      "/images/portfolio/imgpofrocard4.webp",
+      "/images/portfolio/imgpofrocard4.webp",
+      "/images/portfolio/imgpofrocard4.webp",
+      "/images/portfolio/imgpofrocard4.webp",
     ],
     alt: "Mount Baker Historic Craftsman",
   },
@@ -106,10 +106,10 @@ const portfolioData: PortfolioItem[] = [
       "Feasibility & conceptual design for a multipurpose campus providing housing, education, employment, and community for adults with special needs.",
 
     imageSrc: [
-      "/images/portfolio/imgpofrocard5.jpg",
-      "/images/portfolio/imgpofrocard5.jpg",
-      "/images/portfolio/imgpofrocard5.jpg",
-      "/images/portfolio/imgpofrocard5.jpg",
+      "/images/portfolio/imgpofrocard5.webp",
+      "/images/portfolio/imgpofrocard5.webp",
+      "/images/portfolio/imgpofrocard5.webp",
+      "/images/portfolio/imgpofrocard5.webp",
     ],
     alt: "Matthias Academy",
   },
@@ -123,10 +123,10 @@ const portfolioData: PortfolioItem[] = [
       "Rescuing and revitalizing a damaged historic home with creative colors and a surprising blend of styles.",
 
     imageSrc: [
-      "/images/portfolio/imgpofrocard8.jpg",
-      "/images/portfolio/imgpofrocard8.jpg",
-      "/images/portfolio/imgpofrocard8.jpg",
-      "/images/portfolio/imgpofrocard8.jpg",
+      "/images/portfolio/imgpofrocard8.webp",
+      "/images/portfolio/imgpofrocard8.webp",
+      "/images/portfolio/imgpofrocard8.webp",
+      "/images/portfolio/imgpofrocard8.webp",
     ],
     alt: "Judkins Park Jewelbox Victorian",
   },
@@ -140,10 +140,10 @@ const portfolioData: PortfolioItem[] = [
       "A distinctive multifamily building responding to its transit‑oriented location without blending in with the crowd.",
 
     imageSrc: [
-      "/images/portfolio/imgpofrocard7.jpg",
-      "/images/portfolio/imgpofrocard7.jpg",
-      "/images/portfolio/imgpofrocard7.jpg",
-      "/images/portfolio/imgpofrocard7.jpg",
+      "/images/portfolio/imgpofrocard7.webp",
+      "/images/portfolio/imgpofrocard7.webp",
+      "/images/portfolio/imgpofrocard7.webp",
+      "/images/portfolio/imgpofrocard7.webp",
     ],
     alt: "Stellar Apartments",
   },
@@ -157,10 +157,10 @@ const portfolioData: PortfolioItem[] = [
       "A Tudor‑style estate brimming with custom details inside and out, designed by a fully‑integrated, multidisciplinary team.",
 
     imageSrc: [
-      "/images/portfolio/imgpofrocard6.jpg",
-      "/images/portfolio/imgpofrocard6.jpg",
-      "/images/portfolio/imgpofrocard6.jpg",
-      "/images/portfolio/imgpofrocard6.jpg",
+      "/images/portfolio/imgpofrocard6.webp",
+      "/images/portfolio/imgpofrocard6.webp",
+      "/images/portfolio/imgpofrocard6.webp",
+      "/images/portfolio/imgpofrocard6.webp",
     ],
     alt: "Laurelhurst Storybook Residence",
   },

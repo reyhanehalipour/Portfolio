@@ -24,7 +24,7 @@ export default function HerHomeoSection() {
   }, []);
 
   return (
-    <section className="relative w-full h-[30vh] md:h-[80vh] overflow-hidden">
+    <section className="relative w-full h-[100vh] md:h-[80vh] overflow-hidden">
       {images.map((src, index) => (
         <div
           key={index}
