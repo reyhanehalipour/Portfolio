@@ -56,7 +56,7 @@ export default function Navbar() {
         </Link>
 
         {/* Mobile menu button */}
-        {isMobile && (
+        
           <button
             className="flex md:hidden text-neutral-800"
             aria-label="Toggle menu"
@@ -68,7 +68,7 @@ export default function Navbar() {
               <HamburgerMenu size="28" className="text-green" />
             )}
           </button>
-        )}
+      
       </nav>
 
       {/* Mobile menu */}

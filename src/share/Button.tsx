@@ -31,7 +31,7 @@ const Button: React.FC<CleverButtonProps> = ({
     <button
       disabled={disabled}
       onClick={handleClick}
-      className={`bg-white border border-green hover:bg-green text-green  hover:text-white font-semibold py-2 px-5 rounded-sm transition-colors duration-300 ${className}`}
+      className={`bg-white border !border-green hover:bg-green text-green  hover:text-white font-semibold py-2 px-5 rounded-sm transition-colors duration-300 ${className}`}
     >
       {title}
     </button>

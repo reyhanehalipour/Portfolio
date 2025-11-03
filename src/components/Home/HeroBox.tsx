@@ -20,7 +20,7 @@ export default function HeroBox() {
           commercial spaces, community-oriented projects, even parks
         </span>
 
-        <Button title={"Portfolio"} className="hover:bg-green hover:text-background-light" link={"/portfolio"} />
+        <Button title={"Portfolio"} className="hover:bg-green border-green hover:text-background-light" link={"/portfolio"} />
       </div>
     </div>
   );
