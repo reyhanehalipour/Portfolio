@@ -6,7 +6,7 @@ export default function page() {
     <>
       <HeroSection
         title={"portfolio"}
-        backgroundImage={"/images/bgportfo.jpg"}
+        backgroundImage={"/images/portfolio/bgportfo.webP"}
         description="A diversity of experience fueling creative solutions for projects large and small.
 From the big picture to the intimate details, our multidisciplinary studios of architects, interior designers, and landscape architects design projects you and your community will be proud to call your own."
       />

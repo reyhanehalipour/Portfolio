@@ -36,7 +36,7 @@ export default function Footer() {
               <br /> creative storytelling,
               <br /> clever solutions, and purposeful design.
             </p>
-                <div className="flex items-center justify-center gap-3">
+                <div className=" hidden md:flex items-center justify-center gap-3">
             <label>about</label>
             <label> approatch</label>
             <label>story</label>

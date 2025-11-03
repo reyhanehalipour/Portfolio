@@ -40,7 +40,7 @@ export default function Navbar() {
               <Link
                 href={link.href}
                 title={link.title}
-                className="hover:text-primary transition-colors"
+                className="transition-colors cursor-pointer"
               >
                 {link.name}
               </Link>
@@ -82,7 +82,7 @@ export default function Navbar() {
                     <Link
                       href={link.href}
                       title={link.title}
-                      className=" text-green font-medium hover:text-primary transition-colors"
+                      className=" text-green font-medium  transition-colors cursor-pointer"
                       onClick={() => setIsOpen(false)}
                     >
                       {link.name}
