@@ -14,7 +14,7 @@ interface PortfolioCarouselProps {
 
 const PortfolioCarousel = ({ images, alt }: PortfolioCarouselProps) => {
   return (
-    <div className="w-full max-w-3xl mx-auto relative">
+    <div className="w-full max-w-4xl mx-auto relative">
       <Swiper
         modules={[Navigation, Pagination, Autoplay]}
         navigation={{
@@ -24,22 +24,25 @@ const PortfolioCarousel = ({ images, alt }: PortfolioCarouselProps) => {
         pagination={{ clickable: true }}
         autoplay={{ delay: 5000, disableOnInteraction: false }}
         loop
-        className="rounded-xl"
+        className="rounded-xl overflow-hidden"
       >
         {images.map((src, index) => (
           <SwiperSlide key={index}>
-            <img
-              src={src}
-              alt={alt}
-              className="w-full h-auto rounded-xl object-cover"
-            />
+            <div className="w-full h-[400px] md:h-[350x] lg:h-[400px] relative">
+              <img
+                src={src}
+                alt={`${alt} ${index + 1}`}
+                className="absolute inset-0 w-full h-full object-cover"
+              />
+            </div>
           </SwiperSlide>
         ))}
 
         {/* Pagination */}
-        <div className="swiper-pagination  bg-green mt-4"></div>
+        <div className="swiper-pagination mt-4"></div>
       </Swiper>
 
+      {/* دکمه‌های قبلی و بعدی */}
       <div className="flex justify-between mt-2">
         <div className="swiper-button-prev-custom text-green text-3xl cursor-pointer select-none">
           ‹
